@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Web3Mall</string>
+    <string name="slogan">YOUR DECENTRALIZED MARKETPLACE</string>
+    <string name="deep_link_url">not found yet</string>
+    <string name="pair">PAIR WITH WALLET</string>
+    <string name="request_sign">REQUEST SIGN FROM WALLET</string>
+    <string name="description">connect your wallet</string>
+</resources>
