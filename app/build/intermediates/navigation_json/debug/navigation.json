@@ -1,0 +1,32 @@
+[
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "http",
+          "https"
+        ],
+        "host": "string",
+        "port": -1,
+        "path": "/deep_link_url",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mFilePath": "/home/akshat/AndroidStudioProjects/Web3Mall/app/src/main/res/navigation/nav_graph.xml",
+            "mDescription": "nav_graph"
+          },
+          "mSourcePosition": {
+            "mStartLine": 4,
+            "mStartColumn": 4,
+            "mStartOffset": 203,
+            "mEndLine": 6,
+            "mEndColumn": 42,
+            "mEndOffset": 303
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]
